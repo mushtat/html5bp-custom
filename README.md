@@ -1,11 +1,11 @@
 html5boilerplate custom template
 ================================
 	
-Alteration of famous front-end development framework.
-Created for rapid deployment and start develop immediately.
-All js files are packed.
-All css files are compressed.
-Removed unnecessary html5bp components.
+Alteration of famous front-end development framework. 
+Created for rapid deployment and start develop immediately. 
+All js files are packed. 
+All css files are compressed. 
+Removed unnecessary html5bp components. 
 
 
 Contain following:
