@@ -7,13 +7,13 @@ All js files are packed.
 All css files are compressed.
 Removed unnecessary html5bp components.
 
-Contain following:
-----------------------
 
-*[normalize.css] [1] and html5bp css
-*[jQuery 1.9.1] [2]
-*[Modernizr 2.6.2] [3]
-*[Defunctr 1.1.0] [4]
+Contain following:
+
+* [normalize.css] [1] and html5bp css
+* [jQuery 1.9.1] [2]
+* [Modernizr 2.6.2] [3]
+* [Defunctr 1.1.0] [4]
 
 [1]: http://necolas.github.com/normalize.css/        "normalize.css"
 [2]: http://jquery.com/  "jQuery"
