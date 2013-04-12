@@ -13,7 +13,7 @@ Removed unnecessary html5bp components.
 
 Contain following:
 
-* [normalize.css] [1] and html5bp css
+* [normalize.css 1.1.1] [1] and html5bp css
 * [jQuery 1.9.1] [2]
 * [Modernizr 2.6.2] [3]
 * [Defunctr 1.1.0] [4]
