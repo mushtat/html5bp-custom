@@ -1,5 +1,5 @@
-html5boilerplate custom template
-================================
+html5boilerplate custom template + sticky footer
+================================================
 	
 Alteration of famous front-end development framework.
 Created for rapid deployment and start develop immediately.
@@ -8,7 +8,9 @@ All js files are packed.
 
 All css files are compressed.
 
-Removed unnecessary html5bp components. 
+Removed unnecessary html5bp components.
+
+Page contain example of css implementation footer to the bottom of the page.
 
 
 Contain following:
