@@ -15,7 +15,7 @@ Page contain example of css implementation footer to the bottom of the page.
 
 Contain following:
 
-* [normalize.css 2.1.2] [1] and html5bp css
+* [normalize.css 2.1.3] [1] and html5bp css
 * [jQuery 1.10.2] [2]
 * [Modernizr 2.6.2] [3]
 * [Defunctr 1.1.0] [4]
